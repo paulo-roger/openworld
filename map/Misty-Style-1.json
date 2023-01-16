@@ -1,0 +1,389 @@
+{
+  "#map": {
+    "background-color": "#000000",
+    "filter": "url(#filter-dingy)",
+    "data-filter": "dingy"
+  },
+  "#armies": {
+    "font-size": 6,
+    "box-size": 3,
+    "stroke": "#000",
+    "stroke-width": 0.3,
+    "fill-opacity": 1,
+    "filter": null
+  },
+  "#biomes": {
+    "opacity": 0.2,
+    "filter": "url(#blur3)",
+    "mask": "url(#land)"
+  },
+  "#stateBorders": {
+    "opacity": 1,
+    "stroke": "#444441",
+    "stroke-width": 0.41,
+    "stroke-dasharray": 1,
+    "stroke-linecap": "butt",
+    "filter": "url(#outline)"
+  },
+  "#provinceBorders": {
+    "opacity": 1,
+    "stroke": "#8d8d8b",
+    "stroke-width": 0.23,
+    "stroke-dasharray": 0.7,
+    "stroke-linecap": "square",
+    "filter": ""
+  },
+  "#cells": {
+    "opacity": null,
+    "stroke": "#808080",
+    "stroke-width": 0.1,
+    "filter": null,
+    "mask": null
+  },
+  "#gridOverlay": {
+    "opacity": 0.8,
+    "scale": 1,
+    "dx": 0,
+    "dy": 0,
+    "type": "pointyHex",
+    "stroke": "#777777",
+    "stroke-width": 0.5,
+    "stroke-dasharray": null,
+    "stroke-linecap": null,
+    "transform": null,
+    "filter": null,
+    "mask": null
+  },
+  "#coordinates": {
+    "opacity": 1,
+    "data-size": 12,
+    "font-size": 12,
+    "stroke": "#d4d4d4",
+    "stroke-width": 1,
+    "stroke-dasharray": 5,
+    "stroke-linecap": null,
+    "filter": null,
+    "mask": null
+  },
+  "#compass": {
+    "opacity": 0.8,
+    "transform": null,
+    "filter": null,
+    "mask": "url(#water)",
+    "shape-rendering": "optimizespeed"
+  },
+  "#rose": {
+    "transform": null
+  },
+  "#relig": {
+    "opacity": 0.7,
+    "stroke": "#777777",
+    "stroke-width": 0,
+    "filter": null
+  },
+  "#cults": {
+    "opacity": 0.39,
+    "stroke": "#777777",
+    "stroke-width": 0.17,
+    "stroke-dasharray": null,
+    "stroke-linecap": null,
+    "filter": null
+  },
+  "#landmass": {
+    "opacity": 1,
+    "fill": "#eef6fb",
+    "filter": null
+  },
+  "#markers": {
+    "opacity": null,
+    "rescale": 1,
+    "filter": "url(#dropShadow01)"
+  },
+  "#prec": {
+    "opacity": null,
+    "stroke": "#000000",
+    "stroke-width": 0.1,
+    "fill": "#003dff",
+    "filter": null
+  },
+  "#population": {
+    "opacity": null,
+    "stroke-width": 1.6,
+    "stroke-dasharray": null,
+    "stroke-linecap": "butt",
+    "filter": null
+  },
+  "#rural": {
+    "stroke": "#0000ff"
+  },
+  "#urban": {
+    "stroke": "#ff0000"
+  },
+  "#freshwater": {
+    "opacity": 0.5,
+    "fill": "#a6c1fd",
+    "stroke": "#5f799d",
+    "stroke-width": 0.7,
+    "filter": "url(#filter-dingy)"
+  },
+  "#salt": {
+    "opacity": 0.5,
+    "fill": "#409b8a",
+    "stroke": "#388985",
+    "stroke-width": 0.7,
+    "filter": null
+  },
+  "#sinkhole": {
+    "opacity": 1,
+    "fill": "#5bc9fd",
+    "stroke": "#53a3b0",
+    "stroke-width": 0.7,
+    "filter": null
+  },
+  "#frozen": {
+    "opacity": 0.95,
+    "fill": "#cdd4e7",
+    "stroke": "#cfe0eb",
+    "stroke-width": 0,
+    "filter": null
+  },
+  "#lava": {
+    "opacity": 0.7,
+    "fill": "#90270d",
+    "stroke": "#f93e0c",
+    "stroke-width": 2,
+    "filter": "url(#crumpled)"
+  },
+  "#dry": {
+    "opacity": 1,
+    "fill": "#c9bfa7",
+    "stroke": "#8e816f",
+    "stroke-width": 0.7,
+    "filter": null
+  },
+  "#sea_island": {
+    "opacity": 0.5,
+    "stroke": "#1f3846",
+    "stroke-width": 0.7,
+    "filter": "url(#dropShadow)",
+    "auto-filter": 1
+  },
+  "#lake_island": {
+    "opacity": 1,
+    "stroke": "#7c8eaf",
+    "stroke-width": 0.35,
+    "filter": null
+  },
+  "#terrain": {
+    "opacity": 0.5,
+    "set": "colored",
+    "size": 0.25,
+    "density": 0.77,
+    "filter": null,
+    "mask": null
+  },
+  "#rivers": {
+    "opacity": null,
+    "filter": null,
+    "fill": "#5d97bb"
+  },
+  "#ruler": {
+    "opacity": null,
+    "filter": null
+  },
+  "#roads": {
+    "opacity": 0.44,
+    "stroke": "#6c5e56",
+    "stroke-width": 0.65,
+    "stroke-dasharray": "",
+    "stroke-linecap": "square",
+    "filter": "",
+    "mask": null
+  },
+  "#trails": {
+    "opacity": 0.43,
+    "stroke": "#573d2e",
+    "stroke-width": 0.37,
+    "stroke-dasharray": "",
+    "stroke-linecap": "butt",
+    "filter": "url(#outline)",
+    "mask": null
+  },
+  "#searoutes": {
+    "opacity": 0.8,
+    "stroke": "#ffffff",
+    "stroke-width": 0.45,
+    "stroke-dasharray": "1 2",
+    "stroke-linecap": "round",
+    "filter": null,
+    "mask": null
+  },
+  "#statesBody": {
+    "opacity": 0.13,
+    "filter": "url(#filter-dingy)"
+  },
+  "#statesHalo": {
+    "opacity": 0.63,
+    "data-width": 6.7,
+    "stroke-width": 6.7,
+    "filter": "blur(4.03px)"
+  },
+  "#provs": {
+    "opacity": 0.68,
+    "fill": "#272626",
+    "font-size": 2,
+    "font-family": "Luminari",
+    "filter": "url(#filter-sepia)"
+  },
+  "#temperature": {
+    "opacity": null,
+    "font-size": "8px",
+    "fill": "#000000",
+    "fill-opacity": 0.3,
+    "stroke": null,
+    "stroke-width": 1.8,
+    "stroke-dasharray": null,
+    "stroke-linecap": null,
+    "filter": null
+  },
+  "#ice": {
+    "opacity": 0.78,
+    "fill": "#e8f0f6",
+    "stroke": "#e8f0f6",
+    "stroke-width": 1,
+    "filter": "url(#paper)"
+  },
+  "#emblems": {
+    "opacity": 0.9,
+    "stroke-width": 1,
+    "filter": null
+  },
+  "#texture": {
+    "opacity": 0.69,
+    "filter": "url(#filter-sepia)",
+    "mask": "url(#land)"
+  },
+  "#textureImage": {
+    "x": 0,
+    "y": 0
+  },
+  "#zones": {
+    "opacity": 0.6,
+    "stroke": "#333333",
+    "stroke-width": 0,
+    "stroke-dasharray": null,
+    "stroke-linecap": "butt",
+    "filter": null,
+    "mask": null
+  },
+  "#oceanLayers": {
+    "filter": "url(#blur3)",
+    "layers": "-6,-5,-4,-3,-2,-1"
+  },
+  "#oceanBase": {
+    "fill": "#53709d"
+  },
+  "#oceanicPattern": {
+    "href": "",
+    "opacity": 0.21
+  },
+  "#terrs": {
+    "opacity": null,
+    "scheme": "bright",
+    "terracing": 0,
+    "skip": 5,
+    "relax": 0,
+    "curve": 0,
+    "filter": null,
+    "mask": "url(#land)"
+  },
+  "#legend": {
+    "data-size": 13,
+    "font-size": 13,
+    "font-family": "Almendra SC",
+    "stroke": "#812929",
+    "stroke-width": 2.5,
+    "stroke-dasharray": "0 4 10 4",
+    "stroke-linecap": "round",
+    "data-x": 34.63,
+    "data-y": 96.26,
+    "data-columns": 8
+  },
+  "#burgLabels > #cities": {
+    "opacity": 1,
+    "fill": "#6c5842",
+    "text-shadow": "white 0px 0px 4px",
+    "data-size": 5,
+    "font-size": 5,
+    "font-family": "trattatello"
+  },
+  "#burgIcons > #cities": {
+    "opacity": 1,
+    "fill": "#ffffff",
+    "fill-opacity": 0.7,
+    "size": 1,
+    "stroke": "#3e3e4b",
+    "stroke-width": 0.24,
+    "stroke-dasharray": "",
+    "stroke-linecap": "butt"
+  },
+  "#anchors > #cities": {
+    "opacity": 1,
+    "fill": "#ffffff",
+    "size": 2,
+    "stroke": "#3e3e4b",
+    "stroke-width": 1.2
+  },
+  "#burgLabels > #towns": {
+    "opacity": 1,
+    "fill": "#685136",
+    "text-shadow": "white 0px 0px 4px",
+    "data-size": 4,
+    "font-size": 4,
+    "font-family": "IM Fell English"
+  },
+  "#burgIcons > #towns": {
+    "opacity": 1,
+    "fill": "#ffffff",
+    "fill-opacity": 0.7,
+    "size": 0.5,
+    "stroke": "#3e3e4b",
+    "stroke-width": 0.12,
+    "stroke-dasharray": "",
+    "stroke-linecap": "butt"
+  },
+  "#anchors > #towns": {
+    "opacity": 1,
+    "fill": "#ffffff",
+    "size": 1,
+    "stroke": "#3e3e4b",
+    "stroke-width": 1.2
+  },
+  "#labels > #states": {
+    "opacity": 1,
+    "fill": "#685c40",
+    "stroke": "#3a3a3a",
+    "stroke-width": 0,
+    "text-shadow": "white 0px 0px 4px",
+    "data-size": 5,
+    "font-size": 5,
+    "font-family": "Luminari",
+    "filter": ""
+  },
+  "#labels > #addedLabels": {
+    "opacity": 1,
+    "fill": "#7e7e81",
+    "stroke": "#3a3a3a",
+    "stroke-width": 0,
+    "text-shadow": "white 0px 0px 4px",
+    "data-size": 6,
+    "font-size": 6,
+    "font-family": "Uncial Antiqua",
+    "filter": null
+  },
+  "#fogging": {
+    "opacity": 0.75,
+    "fill": "#8791ab",
+    "filter": "url(#bluredSplotch)"
+  }
+}
