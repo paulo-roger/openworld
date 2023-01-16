@@ -1,2 +1,7 @@
 # Open World
 
+Welcome to our open-licensed RPG world project. We are excited to introduce you to a community of like-minded individuals who are passionate about creating a unique and immersive world together. Our project is built around the concept of modular settings, which allows us to create multiple different worlds that can easily share common elements such as geography, weather, and more. This not only saves time and resources but also provides an opportunity for a more cohesive and believable world.
+
+Our project is open to artists, writers, specialists in geology, geography, history, myths, and anthropology, as well as anyone who loves RPGs. We welcome all skill levels, from experienced world-builders to those who are new to the process. With the use of the creative commons license, we are able to build a world that is open to everyone and encourages collaboration. Join us on this creative journey and let your imagination run wild. Together, we can build something truly amazing that will leave players in awe.
+
+We are excited to see the different perspectives and ideas that everyone brings to the table, and how it can help shape our final product. So come be part of this wonderful project, and let's make something truly extraordinary together.
