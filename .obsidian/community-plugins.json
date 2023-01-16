@@ -1,4 +1,13 @@
 [
   "obsidian-version-history-diff",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-leaflet-plugin",
+  "fantasy-calendar",
+  "table-editor-obsidian",
+  "obsidian-admonition",
+  "obsidian-linter",
+  "url-into-selection",
+  "copy-publish-url",
+  "recent-files-obsidian",
+  "templater-obsidian"
 ]

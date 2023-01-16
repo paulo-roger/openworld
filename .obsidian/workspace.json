@@ -11,12 +11,8 @@
             "id": "0b8d7e0be0ae51f2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Teste.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "obsidian-leaflet-map-view",
+              "state": {}
             }
           }
         ]
@@ -64,6 +60,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "2038cf6ed0e616fc",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
           }
         ]
       }
@@ -85,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Teste.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Teste.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,16 +126,23 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Teste.md"
-              }
+              "state": {}
+            }
+          },
+          {
+            "id": "eda58df232fec410",
+            "type": "leaf",
+            "state": {
+              "type": "FANTASY_CALENDAR",
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 321.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -143,12 +152,16 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false
+      "markdown-importer:Open format converter": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "fantasy-calendar:Open Large Fantasy Calendar": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false
     }
   },
   "active": "0b8d7e0be0ae51f2",
   "lastOpenFiles": [
-    "README.md",
-    "Teste.md"
+    "Teste.md",
+    "README.md"
   ]
 }
