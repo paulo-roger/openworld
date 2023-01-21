@@ -9,5 +9,17 @@
   "url-into-selection",
   "copy-publish-url",
   "recent-files-obsidian",
-  "templater-obsidian"
+  "templater-obsidian",
+  "dataview",
+  "obsidian-icon-shortcodes",
+  "obsidian-icons-plugin",
+  "obsidian-style-settings",
+  "table-extended",
+  "obsidian-timelines",
+  "spoiler-block-obsidian",
+  "alx-folder-note",
+  "obsidian-gpt",
+  "make-md",
+  "obsidian-markdown-formatting-assistant-plugin",
+  "meld-encrypt"
 ]

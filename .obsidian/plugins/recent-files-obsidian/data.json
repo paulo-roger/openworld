@@ -7,6 +7,26 @@
     {
       "basename": "Teste",
       "path": "Teste.md"
+    },
+    {
+      "basename": "Eria 2023-01-16-01-46",
+      "path": "map/Eria 2023-01-16-01-46.jpeg"
+    },
+    {
+      "basename": "Fornema 2023-01-16-00-33",
+      "path": "map/Fornema 2023-01-16-00-33.jpeg"
+    },
+    {
+      "basename": "PrettyFantasy",
+      "path": "map/PrettyFantasy.jpg"
+    },
+    {
+      "basename": "Eria 2023-01-16-01-46 (1)",
+      "path": "map/Eria 2023-01-16-01-46 (1).jpeg"
+    },
+    {
+      "basename": "Eria 2023-01-16-01-35",
+      "path": "map/Eria 2023-01-16-01-35.jpeg"
     }
   ],
   "omittedPaths": [],

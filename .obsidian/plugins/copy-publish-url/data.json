@@ -1,8 +1,8 @@
 {
   "homeNote": "",
   "publishPath": "",
-  "enableContext": true,
-  "enableOpenUrl": true,
+  "enableContext": false,
+  "enableOpenUrl": false,
   "enableGithub": true,
   "remoteUrl": "https://github.com/paulo-roger/openworld.git/",
   "branch": "main"
